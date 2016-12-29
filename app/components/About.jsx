@@ -6,7 +6,7 @@ var About = (props) => {
     <div>
       <h1 className="text-center page-title">About</h1>
       <p>
-        This is a weather application built on React.
+        Hi, My name is Ajith and this is a weather application built on React.
         I built this app to get comfortable with using React as this is my first React project.
       </p>
       <p className="text-center">
@@ -20,6 +20,7 @@ var About = (props) => {
           </li>
         </ul>
       </p>
+      <h1 className="text-center githubpage"><a className="text-center" href="https://github.com/AjithRahu" target="_blank">My Github Page</a></h1>
     </div>
   )
 };
